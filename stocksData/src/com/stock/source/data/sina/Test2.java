@@ -13,6 +13,7 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
 
+
 public class Test2 {
 	public final static void main(String[] args) throws Exception {
 		CloseableHttpClient httpclient = HttpClients.createDefault();
